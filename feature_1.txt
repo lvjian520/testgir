@@ -1,9 +1,6 @@
 add feature 1
 from feature -1
-add func1
 第二次
 from feature -2
-add func2
 第二次
 再次提交
-add func3
