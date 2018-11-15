@@ -1,0 +1,6 @@
+add feature 1
+from feature -1
+第二次
+from feature -2
+第二次
+再次提交
