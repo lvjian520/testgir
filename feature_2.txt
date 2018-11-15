@@ -1,1 +1,2 @@
-add feature2 by f_feature1add func2add func3
+add func2
+add func3
